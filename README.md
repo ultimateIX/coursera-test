@@ -1,2 +1,2 @@
 # coursera-test
-repositorio de avances hechoz en coursera
+repositorio de avances hechos en coursera
